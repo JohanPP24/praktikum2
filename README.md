@@ -14,7 +14,7 @@ ini :
 
 ![gambar3](flowchart)
 
-# Penjelasan Lab01
+# Penjelasan LAB1
 # Penggunaan end
 <p>contoh script penggunaan end
 
@@ -39,6 +39,14 @@ ini :
 
 ![gambar9](gambar6)	
 
+# Penjelasan LAB2
+# hasil perhitungan
+<p>contoh script perhitungan
+
+![gambar10](gambar9)	
+<p>maka outputnya akan muncul
+
+![gambar11](gambar10)
 
 
 
